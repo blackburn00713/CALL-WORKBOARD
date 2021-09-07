@@ -9,8 +9,9 @@ function App() {
       <div>
       <MiniDrawer/>
       </div>
-      {/* <DHeader /> */}
-      <Container style={{padding: 0}}>ss</Container>
+      <div style={{padding: 0}}>
+sssascasc
+      </div>
     </div>
   );
 }

@@ -41,9 +41,8 @@ const MiniDrawer = () => {
       <Box
         style={{
           width: '50px',
-          height: '100%',
+          height: '100vh',
           backgroundColor: 'blue',
-          position: 'absolute',
           display: 'flex',
           justifyContent: 'center'
         }}
